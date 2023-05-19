@@ -1,6 +1,5 @@
 import pyshorteners
 
-import pyshorteners
 
 url = input("Enter the URL to shorten: ")
 
